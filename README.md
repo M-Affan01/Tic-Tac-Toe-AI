@@ -1,4 +1,4 @@
-# 🎮 Ultimate Tic-Tac-Toe AI
+# Ultimate Tic-Tac-Toe AI
 
 <div align="center">
 
@@ -15,27 +15,27 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 **Ultimate Tic-Tac-Toe AI** is a state-of-the-art implementation of the classic game, engineered to demonstrate the intersection of **Game Theory Algorithms** and **Modern Web Design**. Unlike standard implementations, this project features a mathematically perfect AI opponent that cannot be defeated, providing a rigorous testbed for algorithmic study and user interface design.
 
 Built entirely in **Python** using the **Streamlit** framework, the application pushes the boundaries of stateless web architecture by implementing a persistent game loop with complex state management. The UI features a custom **Glassmorphism** design system with improved accessibility (high contrast modes) and responsive layouts.
 
-### 🎯 Key Objectives
+### Key Objectives
 - **Academic Rigor**: Demonstrate the Minimax algorithm with full recursion for perfect gameplay.
 - **UX Excellence**: Deliver a native-app feel within a browser using advanced CSS injection.
 - **Accessibility**: Ensure high visibility and responsiveness across all devices.
 
 ---
 
-## ✨ Features Breakdown
+## Features Breakdown
 
-### 🧠 Core System (The Brain)
+### Core System (The Brain)
 - **Minimax Algorithm**: A recursive decision rule used in AI for zero-sum games. It evaluates every possible future move to minimize the maximum possible loss.
 - **Optimal Strategy**: The AI plays perfectly. The best a human player can achieve is a Draw.
 - **Instant Response**: Optimized for 3x3 grids to provide near-instantaneous feedback (<100ms).
 
-### 🎨 User Interface (The Beauty)
+### User Interface (The Beauty)
 - **Neon Glassmorphism**: A dark-mode aesthetic featuring translucent, frosted-glass panels with vibrant neon accents (Cyber Green for Player, Laser Red for AI).
 - **Dynamic Animations**: 
   - **Pulse Effects**: Status indicators breathe and pulse to show game state.
@@ -43,16 +43,16 @@ Built entirely in **Python** using the **Streamlit** framework, the application 
   - **Confetti/Balloons**: Celebratory animations handled by Streamlit's native engine.
 - **High Visibility**: Giant typography with white-core neon text ensuring readability in all lighting conditions.
 
-### 📊 Reporting & Tracking
+### Reporting & Tracking
 - **Session Scoreboard**: Real-time tracking of:
-  - 🟢 **Player Wins** (Good luck!)
-  - 🔵 **Draws** (The most likely outcome)
-  - 🔴 **AI Wins** (When you slip up)
+  - **Player Wins** (Good luck!)
+  - **Draws** (The most likely outcome)
+  - **AI Wins** (When you slip up)
 - **Smart Footer**: Context-aware status messages updating the user on turn state (`AI Thinking...`, `Your Turn`).
 
 ---
 
-## 🛠️ Technical Stack & Dependencies
+## Technical Stack & Dependencies
 
 | Component | Technology | Version | Purpose |
 | :--- | :--- | :--- | :--- |
@@ -64,7 +64,7 @@ Built entirely in **Python** using the **Streamlit** framework, the application 
 
 ---
 
-## 🏗️ Architecture & Design
+## Architecture & Design
 
 The project follows a **Component-Based Architecture** tailored for Streamlit's reactive execution model.
 
@@ -98,7 +98,7 @@ The AI recursively simulates all game states:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 Tic-Tac-Toe-AI/
@@ -111,7 +111,7 @@ Tic-Tac-Toe-AI/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -145,7 +145,7 @@ The application will launch automatically in your default browser at `http://loc
 
 ---
 
-## 🎮 Performance & Optimization
+## Performance & Optimization
 
 ### Computational Complexity
 - **State Space**: Tic-Tac-Toe has 255,168 possible games.
@@ -158,7 +158,7 @@ The application will launch automatically in your default browser at `http://loc
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions to make this AI smarter or the UI shinier!
 
@@ -170,7 +170,7 @@ We welcome contributions to make this AI smarter or the UI shinier!
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the **MIT License**. See [LICENSE](LICENSE) for more information.
 
@@ -187,12 +187,12 @@ of this software and associated documentation files...
 
 ---
 
-## 📞 Contact
+## Contact
 
 **Project Lead**  
-📧 Email: maffan2830@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/affan-nexor-66abb8321/ 
-🐙 GitHub: https://github.com/M-Affan01
+- Email: maffan2830@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/affan-nexor-66abb8321/ 
+- GitHub: https://github.com/M-Affan01
 
 <div align="center">
   <sub>Built with ❤️ by MiniMax Enthusiasts</sub>
